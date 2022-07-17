@@ -1,0 +1,47 @@
+body {
+    font-family: sans-serif;
+    background-image:linear-gradient(gold, silver, skyblue);
+
+}
+
+header {
+    text-decoration: none;
+    height:70px;
+    padding-top:15px;
+    background-color:coral;
+    position: relative;
+    padding-left: 15px;
+
+
+}
+
+header a{
+    text-decoration: none;
+    color: white;
+    background-color: crimson;
+    padding: 7px;
+    border-radius: 10px;
+
+}
+
+nav a{
+    background-color: rgb( orange, crimson, blue);
+    text-decoration: none;
+    padding: 10px;
+    border-radius: 10px;
+}
+
+h1{
+    text-align: center;
+    color: silver;
+}
+
+nav a:hover{
+    background-color: skyblue;
+    translition:3s ease-in;
+    color: whitesmoke;
+}
+
+h2{
+    color: wheat;
+}
